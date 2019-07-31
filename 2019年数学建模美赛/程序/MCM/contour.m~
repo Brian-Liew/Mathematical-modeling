@@ -1,0 +1,30 @@
+hospital=[-65.65 18.33;
+      -66.03 18.22;
+      -66.07 18.44;
+      -66.16 18.40;
+      -66.73 18.47];                        
+
+
+figure
+
+cntr = shaperead('./boundary/PRI_adm0.shp','UseGeoCoords',false);
+mapshow(cntr)
+hold on
+road = shaperead('./road/tl_2013_72_prisecroads.shp','UseGeoCoords',true);
+% geoshow(road);
+hold on
+x  = [-66.1332 18.4465;
+     -66.7315 18.4735;
+     -66.5565 18.3699];
+% plot(x1(1),x1(2),'r*');
+% plot(x2(1),x2(2),'r*');
+% plot(x3(1),x3(2),'r*');
+% plot(hospital(1,1),hospital(1,2),'b*');
+% plot(hospital(2,1),hospital(2,2),'b*');
+% plot(hospital(3,1),hospital(3,2),'b*');
+% plot(hospital(4,1),hospital(4,2),'b*');
+% plot(hospital(5,1),hospital(5,2),'b*');
+% text(x1(1),x1(2),'position1');
+% text(x2(1),x2(2),'position2');
+% text(x3(1),x3(2),'position3');
+geoshow(hospital(:,2), hospital(:,1), 'DisplayType', ''

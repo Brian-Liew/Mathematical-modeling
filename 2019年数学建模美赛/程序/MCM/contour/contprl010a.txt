@@ -1,0 +1,382 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey 
+        Publication_Date: 201404
+        Title: 1:1,000,000-Scale Contours of Puerto Rico and the U.S. Virgin Islands
+        Geospatial_Data_Presentation_Form: Vector digital data
+        Publication_Information:
+          Publication_Place: Rolla, MO
+          Publisher: National Atlas of the United States
+        Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+    Description:
+      Abstract:
+        This map layer shows elevation contour lines for Puerto Rico and the U.S. Virgin Islands.  The map 
+        layer was derived from the 100-meter resolution elevation data set which is published by the 
+        National Atlas of the United States, and is in the same Albers Equal-area Conic projection as that 
+        source data set.  Contour intervals match the steps used in the National Atlas Color-Sliced 
+        Elevation data sets.  Contours were adjusted so that they are in the proper relationship to 
+        National Atlas 1:1,000,000-scale lakes, reservoirs, and wide (double-line) streams.
+      Purpose:
+        These data are intended for geographic display and analysis at the national level, and for large 
+        regional areas.  The data should be displayed and analyzed at scales appropriate 
+        for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United 
+        States in the use of these data.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 201404
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:	
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -69
+        East_Bounding_Coordinate: -63
+        North_Bounding_Coordinate: 21
+        South_Bounding_Coordinate: 15
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: GCMD Science keywords
+        Theme_Keyword: Land Surface > Topography > Terrain Elevation 
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: elevation
+        Theme_Keyword: imageryBaseMapsEarthCover
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Elevation
+        Theme_Keyword: Topography
+        Theme_Keyword: Topographic
+        Theme_Keyword: Contours
+        Theme_Keyword: NED
+      Place:
+        Place_Keyword_Thesaurus:
+          Organization for International Standards, 2008, ISO 3166 Country Codes,
+          https://www.iso.org/obp/ui/#search.
+        Place_Keyword: United States
+        Place_Keyword: US
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 2013; American National Standards Institute (ANSI) Codes for States, 
+          the District of Columbia, Puerto Rico, and the Insular Areas of the United States; 
+          Washington, DC; U.S. Census Bureau; http://www.census.gov/geo/reference/ansi_statetables.html.
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+
+    Access_Constraints: None.
+    Use_Constraints:
+      None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in 
+      products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey
+          Contact_Person: John Hutchinson
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 47914 252nd Street
+          City: Sioux Falls		
+          State_or_Province: South Dakota
+          Country: USA
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 1 605 594 6049
+        Contact_Facsimile_Telephone: 1 605 594 6529
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Native_Data_Set_Environment: File Geodatabase created in ArcGIS 10.1
+
+    Cross_Reference:
+      Citation_Information:
+        Originator: U.S. Geological Survey 
+        Publication_Date: 201404
+        Title: 1:1,000,000-Scale Contours of the Conterminous United States
+        Geospatial_Data_Presentation_Form: Vector digital data     
+        Publication_Information:
+          Publication_Place: Sioux Falls, SD
+          Publisher: U.S. Geological Survey, EROS Data Center
+        Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+    Cross_Reference:
+      Citation_Information:
+        Originator: U.S. Geological Survey 
+        Publication_Date: 201404
+        Title: 1:1,000,000-Scale Contours of Alaska
+        Geospatial_Data_Presentation_Form: Vector digital data     
+        Publication_Information:
+          Publication_Place: Sioux Falls, SD
+          Publisher: U.S. Geological Survey, EROS Data Center
+        Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+    Cross_Reference:
+      Citation_Information:
+        Originator: U.S. Geological Survey 
+        Publication_Date: 201404
+        Title: 1:1,000,000-Scale Contours of Hawaii
+        Geospatial_Data_Presentation_Form: Vector digital data     
+        Publication_Information:
+          Publication_Place: Sioux Falls, SD
+          Publisher: U.S. Geological Survey, EROS Data Center
+        Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+
+  Data_Quality_Information:
+    Logical_Consistency_Report: 
+      No tests for logical consistency have been performed on this map layer.
+    Completeness_Report:
+      Data completeness reflects the content of the original NED elevation data.
+
+    Lineage:
+      Source_Information: 
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey 
+            Publication_Date: 201212
+            Title: 100-Meter Resolution Elevation of Puerto Rico and the U.S. Virgin Islands
+            Geospatial_Data_Presentation_Form: Raster digital data     
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+            Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201212
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas PR raster elevation
+        Source_Contribution: Spatial and attribute information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201303
+            Title: 100-Meter Resolution Color-Sliced Elevation of Puerto Rico and the U.S. Virgin Islands
+            Geospatial_Data_Presentation_Form: Raster digital data
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+            Online_Linkage: http://nationalatlas.gov/atlasftp-1m.html
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201303
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas PR color-sliced elevation
+        Source_Contribution: Elevation step intervals
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Waterbodies and Wetlands of the United States
+            Edition: 1
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+        Source_Scale_Denominator: 1000000
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas 1:1M Waterbodies 2012
+        Source_Contribution: Spatial information
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201207
+            Title: 1:1,000,000-Scale Coastline of the United States
+            Edition: 1
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201207
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: National Atlas 1:1M Coastline 2012
+        Source_Contribution: Spatial information
+
+      Process_Step:
+        Process_Description:	
+          Contours were derived from the National Atlas PR raster elevation data by a custom process, 
+          created as a multi-step script in the ArcGIS environment by Dean Tyler, U.S. Geological Survey. 
+
+          Contour intervals are the same as the step intervals in National Atlas PR color-sliced elevation.  
+          All values are in meters; the following contours are included: 50, 100, 150, 200, 300, 400, 500, 
+          600, 700, 800, 900, 1000, 1100, 1200.
+
+          The zero-elevation contour was omitted and replaced with the 1:1,000,000-scale coastline.
+ 
+          The raster data were converted to areas, then to contour lines.  Areas too small to resolve 
+          at 1:1,000,000-scale were deleted.  Contour lines were smoothed and processing artifacts were 
+          cleaned up.
+
+          Contours were adjusted so that they were in the proper relationship to 1:1,000,000-scale lakes, 
+          reservoirs, and wide (double-line) streams.  (A double-line stream is one that is wide enough 
+          at 1:1,000,000 scale to be portrayed as a polygon instead of as a line.)  Contours go around 
+          lakes rather than intersecting with them.  Contours cross double-line streams at right angles.  
+          Contours may cross glaciers, swamps or marshes.
+
+          Contours were not adjusted to align with single-line streams.  There are small mismatches between 
+          the drainage channels as defined by the 100-meter resolution raster elevation data and 
+          the 1:1,000,000-scale streams linework.  As a result, re-entrants (the point where a contour 
+          crosses a stream) are approximately rather than precisely located.
+        Source_Used_Citation_Abbreviation: National Atlas PR raster elevation
+        Source_Used_Citation_Abbreviation: National Atlas PR color-sliced elevation
+        Source_Used_Citation_Abbreviation: National Atlas 1:1M Waterbodies 2012
+        Source_Used_Citation_Abbreviation: National Atlas 1:1M Coastline 2012
+        Process_Date: 2013
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: String 
+        Point_and_Vector_Object_Count: 860
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Planar:
+        Map_Projection:
+          Map_Projection_Name: Albers Conical Equal Area
+          Albers_Conical_Equal_Area:
+            Standard_Parallel: 8.0
+            Standard_Parallel: 18.0
+            Longitude_Of_Central_Meridian: -66.5
+            Latitude_Of_Projection_Origin: 15.0
+            False_Easting: 0.0
+            False_Northing: 0.0
+        Planar_Coordinate_Information:
+          Planar_Coordinate_Encoding_Method: Row and column
+          Coordinate_Representation:
+            Abscissa_Resolution: 100.0
+            Ordinate_Resolution: 100.0
+          Planar_Distance_Units: Meters
+      Geodetic_Model:
+        Horizontal_Datum_Name: NAD 1983
+        Ellipsoid_Name: GRS80
+        Semi-major_Axis: 6378137.0
+        Denominator_of_Flattening_Ratio: 298.257222101
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Contour
+        Entity_Type_Definition: 
+          A line connecting points of equal elevation with reference to a vertical datum.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute: 
+        Attribute_Label: Shape 
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values: 
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: Polyline 
+            Enumerated_Domain_Value_Definition: 
+              A 1-dimensional element that may or may not surround a 2-dimensional element.
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software 
+      Attribute: 
+        Attribute_Label: Id
+        Attribute_Definition: Internal identification number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 106
+      Attribute: 
+        Attribute_Label: Contour
+        Attribute_Definition: The elevation of the contour, in meters.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 50
+            Range_Domain_Maximum: 1200
+      Attribute: 
+        Attribute_Label: Shape_leng
+        Attribute_Definition: The length of the contour line, in meters.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 505.883176
+            Range_Domain_Maximum: 1220980.36914
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: custserv@usgs.gov
+
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at the U.S. Geological 
+      Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility 
+      of the data on any other system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalatlas.gov/atlasftp-1m.html
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI File Geodatabase 10.1
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalatlas.gov/atlasftp-1m.html
+
+      Fees: None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20140407
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Atlas of the United States
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
+

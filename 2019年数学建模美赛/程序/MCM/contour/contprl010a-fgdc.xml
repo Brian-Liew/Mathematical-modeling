@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <pubdate>20140401</pubdate>
+        <title>1:1,000,000-Scale Contours of Puerto Rico and the U.S. Virgin Islands</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>National Atlas of the United States</publish>
+        </pubinfo>
+        <othercit>These data were downloaded from the National Atlas website (http://www.nationalatlas.gov/atlasftp.html) in August 2014.</othercit>
+        <onlink>http://purl.stanford.edu/yp747gp3063</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin/>
+            <pubdate>20060101</pubdate>
+            <title>National Atlas of the United States of America, 1997-2014 </title>
+            <pubinfo>
+              <pubplace/>
+              <publish>National Atlas of the United States of America</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This line shapefile shows elevation contour lines for Puerto Rico and the U.S. Virgin Islands. The map layer was derived from the 100-meter resolution elevation data set which is published by the National Atlas of the United States, and is in the same Albers Equal-area Conic projection as that source data set. Contour intervals match the steps used in the National Atlas Color-Sliced Elevation data sets. Contours were adjusted so that they are in the proper relationship to National Atlas 1:1,000,000-scale lakes, reservoirs, and wide (double-line) streams. This layer is part of the 1997-2014 edition of the National Atlas of the United States.</abstract>
+      <purpose>These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:1,000,000-scale data. No responsibility is assumed by the National Atlas of the United States in the use of these data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20140401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-102.059850</westbc>
+        <eastbc>-97.225603</eastbc>
+        <northbc>48.498582</northbc>
+        <southbc>47.672132</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Contours (Cartography)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>elevation</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>Puerto Rico</placekey>
+        <placekey>United States Virgin Islands</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2014</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>This item is in the public domain.</accconst>
+    <useconst>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>John Hutchinson</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>47914 252nd Street</address>
+          <city>Sioux Falls</city>
+          <state>South Dakota</state>
+          <postal>57198-0001</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>1 605 594 6049</cntvoice>
+        <cntfax>1 605 594 6529</cntfax>
+        <cntemail>atlasmail@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National Atlas of the United States. (2014). 1:1,000,000-Scale Contours of Puerto Rico and the U.S. Virgin Islands. National Atlas of the United States. Available at: http://purl.stanford.edu/yp747gp3063.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+    <crossref>
+      <citeinfo>
+        <origin/>
+        <pubdate>20140401</pubdate>
+        <title>1:1,000,000-Scale Contours of the Conterminous United States</title>
+        <geoform>Vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>U.S. Geological Survey, EROS Data Center</publish>
+        </pubinfo>
+        <onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin/>
+        <pubdate>20140401</pubdate>
+        <title>1:1,000,000-Scale Contours of Hawaii</title>
+        <geoform>Vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>U.S. Geological Survey, EROS Data Center</publish>
+        </pubinfo>
+        <onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>No tests for logical consistency have been performed on this map layer.</logic>
+    <complete>Data completeness reflects the content of the original NED elevation data.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20130301</pubdate>
+            <title>100-Meter Resolution Color-Sliced Elevation of Puerto Rico and the U.S. Virgin Islands</title>
+            <geoform>Raster digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>National Atlas of the United States</publish>
+            </pubinfo>
+            <onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20130301</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas PR color-sliced elevation</srccitea>
+        <srccontr>Elevation step intervals</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20121201</pubdate>
+            <title>100-Meter Resolution Elevation of Puerto Rico and the U.S. Virgin Islands</title>
+            <geoform>Raster digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>National Atlas of the United States</publish>
+            </pubinfo>
+            <onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20121201</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas PR raster elevation</srccitea>
+        <srccontr>Spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20120701</pubdate>
+            <title>1:1,000,000-Scale Waterbodies and Wetlands of the United States</title>
+            <edition>1</edition>
+            <geoform>Vector digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>National Atlas of the United States</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20120701</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas 1:1M Waterbodies 2012</srccitea>
+        <srccontr>Spatial information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20120701</pubdate>
+            <title>1:1,000,000-Scale Coastline of the United States</title>
+            <edition>1</edition>
+            <geoform>Vector digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>National Atlas of the United States</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20120701</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas 1:1M Coastline 2012</srccitea>
+        <srccontr>Spatial information</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Contours were derived from the National Atlas PR raster elevation data by a custom process, created as a multi-step script in the ArcGIS environment by Dean Tyler, U.S. Geological Survey. Contour intervals are the same as the step intervals in National Atlas PR color-sliced elevation. All values are in meters; the following contours are included: 50, 100, 150, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200. The zero-elevation contour was omitted and replaced with the 1:1,000,000-scale coastline. The raster data were converted to areas, then to contour lines. Areas too small to resolve at 1:1,000,000-scale were deleted. Contour lines were smoothed and processing artifacts were cleaned up. Contours were adjusted so that they were in the proper relationship to 1:1,000,000-scale lakes, reservoirs, and wide (double-line) streams. (A double-line stream is one that is wide enough at 1:1,000,000 scale to be portrayed as a polygon instead of as a line.) Contours go around lakes rather than intersecting with them. Contours cross double-line streams at right angles. Contours may cross glaciers, swamps or marshes. Contours were not adjusted to align with single-line streams. There are small mismatches between the drainage channels as defined by the 100-meter resolution raster elevation data and the 1:1,000,000-scale streams linework. As a result, re-entrants (the point where a contour crosses a stream) are approximately rather than precisely located.</procdesc>
+        <srcused>National Atlas PR raster elevation</srcused>
+        <srcused>National Atlas 1:1M Waterbodies 2012</srcused>
+        <srcused>National Atlas 1:1M Coastline 2012</srcused>
+        <srcused>National Atlas PR color-sliced elevation</srcused>
+        <procdate>20130101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>860</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>contprl010a</enttypl>
+        <enttypd>A line connecting points of equal elevation with reference to a vertical datum.</enttypd>
+        <enttypds>National Atlas of the United States</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Contour</attrlabl>
+        <attrdef>The elevation of the contour, in meters.</attrdef>
+        <attrdefs>National Atlas of the United States</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>50</rdommin>
+            <rdommax>1200</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_leng</attrlabl>
+        <attrdef>The length of the contour line, in meters.</attrdef>
+        <attrdefs>National Atlas of the United States</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>505.883176</rdommin>
+            <rdommax>1220980.36914</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>The representation of the entity in the data.</attrdef>
+        <attrdefs>National Atlas of the United States</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polyline</edomv>
+            <edomvd>A 1-dimensional element that may or may not surround a 2-dimensional element.</edomvd>
+            <edomvds>ESRI GIS software</edomvds>
+          </edom>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Id</attrlabl>
+        <attrdef>Internal identification number.</attrdef>
+        <attrdefs>National Atlas of the United States</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>106</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20170104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metscs>None</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>None</metshd>
+    </metsi>
+  </metainfo>
+</metadata>
